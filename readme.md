@@ -1,4 +1,4 @@
-## Developing new open datasets at City of Austin
+## New open datasets being developed at City of Austin
 
 This space is for collaborating about open datasets that have been approved for development by the City of Austin. In this repo, each new dataset is represented by an issue. 
 
@@ -8,8 +8,8 @@ please visit the repo for open-data-suggestions [here](https://github.com/cityof
 #### To view datasets currently in development...
 have a look at the issues section [here](https://github.com/cityofaustin/new-dataset-pipeline/issues).
 
-
-It's a bit experimental, as most of the collaborators are currently learning to use GitHub for the first time. 
+#### Does this include everything under development?
+No, but we're hoping to include more datasets over time. This is a bit experimental, as most of the collaborators are currently learning to use GitHub for the first time. 
 
 
 For questions please feel free to open an issue [here](https://github.com/cityofaustin/new-dataset-pipeline/issues/new) (requires login) or send an email to hailey.pate@austintexas.gov (doesn't require login).
